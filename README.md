@@ -3,7 +3,7 @@ This repository describes the installation of ros noetic and foxy in detail.
 # Software requirements:
 - Virtualbox to create the virtual machine.
 - Download 20.04 ubuntu mate image, Link: https://cdimages.ubuntu.com/ubuntu-mate/releases/20.04/
-# Step 1:
+# Step 1: Virtual Machine Creation
 - Open virtualbox and click on new to create a new virtual machine.
   
 ![New](https://github.com/ProShaden/Ros-noetic-and-foxy-installation/assets/174384069/a6b49ef2-ee3c-4ac3-ab63-054bd075071b)
@@ -21,3 +21,6 @@ This repository describes the installation of ros noetic and foxy in detail.
  ![hard disk creation](https://github.com/ProShaden/ROS-noetic-and-foxy-installation-ubuntu-20.4/assets/174384069/3c9f0732-83a7-4836-b0e6-b2573380474f)
 
 - After the previous steps, a summary of your virtual machine will be shown, click on finish to confirm or back to edit.
+
+  # Step 2: Ubuntu Mate Installation
+
