@@ -54,7 +54,7 @@ This repository describes the installation of ros noetic and foxy in detail.
 
 - Username and password:
 
-![username and pass](https://github.com/ProShaden/ROS-noetic-and-foxy-installation-ubuntu-20.4/assets/174384069/05353b48-9f15-413e-9d4e-ddaee6fa4958)
+![username and pass](https://github.com/ProShaden/ROS-noetic-and-foxy-installation-ubuntu-20.4/assets/174384069/9310f349-c3b1-417d-86de-e4f3d3fac976)
 
 - When the installation process is done, this message will pop up, click on restart now.
 
