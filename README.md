@@ -18,7 +18,7 @@ This repository describes the installation of ros noetic and foxy in detail.
 
 - Create a virutal hard disk by clicking on create a virtual hard disk now and the recommended disk size is 20 GB.
 
-![hard disk creation](https://github.com/ProShaden/ROS-noetic-and-foxy-installation-ubuntu-20.4/assets/174384069/3c9f0732-83a7-483t.6-b0e6-b2573380474f)
+![hard disk creation](https://github.com/ProShaden/ROS-noetic-and-foxy-installation-ubuntu-20.4/assets/174384069/92dde78c-75c3-4975-ad80-7ce59c3dc1d2)
 
 - After the previous steps, a summary of your virtual machine will be shown, click on finish to confirm or back to edit.
 
