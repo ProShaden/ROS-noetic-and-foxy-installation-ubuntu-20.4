@@ -23,7 +23,7 @@ This repository describes the installation of ros noetic and foxy in detail.
 - After the previous steps, a summary of your virtual machine will be shown, click on finish to confirm or back to edit.
 
   # Step 2: Ubuntu Mate Installation
-  - Go to storage and click on empty then click on the little cd figure and choose a disk file (which is the 20.4 ubuntu mate image you downloaded)
+  - Go to storage and click on empty then click on the little cd figure and choose a disk file (which is the 20.4 ubuntu mate image you have downloaded)
   
  ![Ubuntu](https://github.com/ProShaden/ROS-noetic-and-foxy-installation-ubuntu-20.4/assets/174384069/e8d58f8b-c38b-4af5-b226-a8cd36d0b179)
 
