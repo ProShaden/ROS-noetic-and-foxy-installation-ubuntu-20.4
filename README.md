@@ -1,4 +1,4 @@
-# Ros-noetic-and-foxy-installation
+# ROS noetic and foxy installation ubuntu 20.4
 This repository describes the installation of ros noetic and foxy in detail.
 # Software requirements:
 - Virtualbox to create the virtual machine.
