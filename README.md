@@ -65,12 +65,12 @@ This repository describes the installation of ros noetic and foxy in detail.
   # Step 3: ROS noetic and foxy installation
   All you have to do is to copy and paste the instructions at the terminal and be sure to install the full desktop,
   you will find the instructions in the following links:
-  ROS noetic: https://wiki.ros.org/noetic/Installation/Ubuntu
-  ROS foxy: https://docs.ros.org/en/foxy/Installation/Ubuntu-Install-Debians.html
+  - ROS noetic: https://wiki.ros.org/noetic/Installation/Ubuntu
+  - ROS foxy: https://docs.ros.org/en/foxy/Installation/Ubuntu-Install-Debians.html
 
   # Good tutorials
-  Ubuntu installation in virtualbox: https://www.youtube.com/watch?v=IOwlnpWPuj0&t=247s
-  How to copy from the host and paste in your virtual machine (helps with copying and pasting the instructions for ROS installation) : https://www.youtube.com/watch?v=VUWf-uU_1jk
+ - Ubuntu installation in virtualbox: https://www.youtube.com/watch?v=IOwlnpWPuj0&t=247s
+ - How to copy from the host and paste in your virtual machine (helps with copying and pasting the instructions for ROS installation) : https://www.youtube.com/watch?v=VUWf-uU_1jk
 
   
 
