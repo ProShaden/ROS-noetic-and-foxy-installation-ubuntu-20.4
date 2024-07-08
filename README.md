@@ -27,7 +27,7 @@ This repository describes the installation of ros noetic and foxy in detail.
   
  ![Ubuntu](https://github.com/ProShaden/ROS-noetic-and-foxy-installation-ubuntu-20.4/assets/174384069/e8d58f8b-c38b-4af5-b226-a8cd36d0b179)
 
-  - After that, return to your virtual machine and click on start to begin with installation of ubuntu mate.
+  - After that, return to your virtual machine and click on start to begin with the installation of ubuntu mate.
  
   - Click on install ubuntu mate and the language is English by default.
  
