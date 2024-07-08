@@ -46,7 +46,7 @@ This repository describes the installation of ros noetic and foxy in detail.
 
 ![inst](https://github.com/ProShaden/ROS-noetic-and-foxy-installation-ubuntu-20.4/assets/174384069/20a6810d-9b48-456b-9bcc-f2cac4ab0fe4)
 
-- After clicking on install now, a basic information is going to be required like your timezone, username, and password)
+- After clicking on install now, a basic information is going to be required like your timezone, username, and password.
 
 - Timezone:
 
